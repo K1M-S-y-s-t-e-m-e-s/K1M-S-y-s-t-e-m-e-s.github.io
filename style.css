@@ -1,6 +1,6 @@
 body {
-  background-color: #006666;
-  color: white;
+  background-color: #F8EEE7;
+  color: black;
   padding: 25px 25px 25px 25px;
 }
 
@@ -47,10 +47,10 @@ p:hover {
 }
 
 a {
-  color: white;
+  color: black;
 }
 
 a:hover {
-  color: yellow;
+  color: #94618E;
 }
    
